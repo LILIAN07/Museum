@@ -52,7 +52,14 @@
 * [原型下载](http://gitee.com/NFUNM043/bowuguan)
 
 ### 原型展示
-
+![首页](https://images.gitee.com/uploads/images/2019/1225/004020_d128c7ac_1831462.png "首页.png")
+![认证](https://images.gitee.com/uploads/images/2019/1225/004045_4dbb184a_1831462.png "认证.png")
+![负责人](https://images.gitee.com/uploads/images/2019/1225/004059_26598772_1831462.png "负责人.png")
+![查询](https://images.gitee.com/uploads/images/2019/1225/004109_461c2561_1831462.png "查询.png")
+![位置](https://images.gitee.com/uploads/images/2019/1225/004122_32b27727_1831462.png "位置.png")
+![我的](https://images.gitee.com/uploads/images/2019/1225/004135_0664e0b4_1831462.png "我的.png")
+![客服](https://images.gitee.com/uploads/images/2019/1225/004142_361d6901_1831462.png "客服.png")
+![反馈](https://images.gitee.com/uploads/images/2019/1225/004150_8a3867ca_1831462.png "反馈.png")
 
 ## API的选择与使用
 ### 使用水平
